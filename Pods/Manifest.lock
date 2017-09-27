@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Bolts/Tasks (1.8.4)
+  - Branch (0.18.8):
+    - Branch/Core (= 0.18.8)
+  - Branch/Core (0.18.8)
+  - Cartography (2.0.0)
+  - FSCalendar (2.7.9)
+  - GzipSwift-beta (4.0.0-beta.2)
+  - Hue (2.0.1)
+  - HyperTrack (0.4.53):
+    - Alamofire (= 4.4.0)
+    - GzipSwift-beta (= 4.0.0-beta.2)
+    - SQLite.swift (= 0.11.2)
+  - MBProgressHUD (1.0.0)
+  - Pages (1.0.0)
+  - Parse (1.15.3):
+    - Bolts/Tasks (~> 1.8)
+  - PhoneNumberKit (1.4.0):
+    - PhoneNumberKit/PhoneNumberKitCore (= 1.4.0)
+    - PhoneNumberKit/UIKit (= 1.4.0)
+  - PhoneNumberKit/PhoneNumberKitCore (1.4.0)
+  - PhoneNumberKit/UIKit (1.4.0):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - Presentation (3.1.0):
+    - Cartography
+    - Pages
+  - SQLite.swift (0.11.2):
+    - SQLite.swift/standard (= 0.11.2)
+  - SQLite.swift/standard (0.11.2)
+
+DEPENDENCIES:
+  - Branch
+  - FSCalendar
+  - Hue
+  - HyperTrack (= 0.4.53)
+  - MBProgressHUD
+  - Parse
+  - PhoneNumberKit (~> 1.2)
+  - Presentation
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Branch: c8181636136a8ac2477f42ec8b811f50aa359c8c
+  Cartography: d295eb25ab54bb57eecd8c2f04e9648c850f1281
+  FSCalendar: a04b09f16f811bc92e82f3cf852a15225233b9d5
+  GzipSwift-beta: b74b704e17b4b7ea1de99460ec5ad6458d078f32
+  Hue: 354caec055fdc9d38b5ef33ca2e7224721843baf
+  HyperTrack: b13784b5f2f08d4208edf9a4f82d97b5dc526fea
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  Pages: f3718e6f03a5e2787f6b0bff4becb3c7c19bcebc
+  Parse: cdc0f1f975ee8be0409e66f21b05df4ae067047c
+  PhoneNumberKit: a739c359d05701e2e9745654f53e7c64379c2516
+  Presentation: c6276289c0786e6edaad45782259cd8af031db06
+  SQLite.swift: 670c3e9e0a806bbfd56a3de5d530768dc0e6fe7c
+
+PODFILE CHECKSUM: 12dfdffd06c418e2650a6354b55cf7307f8c1d16
+
+COCOAPODS: 1.2.1
